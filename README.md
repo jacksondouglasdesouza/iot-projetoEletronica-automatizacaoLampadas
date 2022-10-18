@@ -12,7 +12,7 @@ Neste projeto desenvolvi conhecimentos de Arduino, prototipação Eletrônica, e
 <p dir="auto">
     <img align="center" alt="Jackson Douglas de Souza-Linguagem-C++" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="Arduino" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
-    <img align="center" alt="tinkercard" height="35" width="45" src="https://user-images.githubusercontent.com/76602433/196324735-541841b6-1863-4c0b-b8da-0487e1684238.svg">
+    <img align="center" alt="tinkercard" height="35" width="45" src="https://user-images.githubusercontent.com/76602433/196325570-c3c65466-9eee-4a34-9604-6d9e19a29251.svg">
     
 </p>
 
