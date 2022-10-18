@@ -1,8 +1,8 @@
 # Projeto de Eletrônica - IOT - Internet das coisas.
 
-O Projeto que segue é referente a automatização em componentes de eletricidade residencial, ou seja, input/ output de correntes elétricas, neste caso o interruptor residencial.
-Neste protótipo usando Arduino, programei códigos que ligam a lâmpada residencial ou algo similar através da aproximação da mão ao dispositivo receptor de dados, no caso um sensor. Fazendo com que ao aproximar a mão ao dispositivo inserido na parede, a lâmpada ligue automaticamente e ela será desligada também automaticamente após algumas horas de uso, caso o usuário não a desligue. Ela é programada para desligar assim que o usuário aproxime a mão ao dispositivo receptor de dados, sensor.
-Neste projeto desenvolvi conhecimentos de Arduino, prototipação Eletrônica, eletrônica digital e Analógica, comportamentos de automatizações não planejadas, comportamentos planejados de IOT, comunicação serial, registro de logs e registros de eventos.
+O Projeto que segue é referente a automatização em componentes de eletricidade residencial, ou seja, input/ output de correntes elétricas, neste caso as chaves ON/OFF o interruptor residencial. Neste protótipo usando Arduino IDE, programei códigos que ligam a lâmpada residencial ou algo similar através da aproximação da mão ao dispositivo receptor de dados, no caso um sensor. Fazendo com que ao aproximar a mão ao dispositivo inserido na parede, a lâmpada ligue automaticamente e ela será desligada também automaticamente após algumas horas de uso, caso o usuário não a desligue. Ela é programada para desligar assim que o usuário aproxime a mão novamente ao dispositivo receptor de dados, sensor. Neste projeto desenvolvi conhecimentos de Arduino, prototipação Eletrônica, eletrônica digital e Analógica, comportamentos de automatizações não planejadas, comportamentos planejados de IOT, comunicação serial, registro de logs e registros de eventos, linguagem C++.
+Vale ressaltar que este é um protótipo em ambiente de simulação, processo realizado antes da realização dos testes de bancada com placa Arduino, protoboard e componentes eletrônicos reais, e logo após este processo que é realizado os testes nos ambientes a qual o protótipo foi idealizado.
+
 
 ### - Link da gravação de tela no YouTube: https://bit.ly/3ENjWkI
 ### - Segue link do protótipo no GitHub: https://bit.ly/3D5XRN2 
