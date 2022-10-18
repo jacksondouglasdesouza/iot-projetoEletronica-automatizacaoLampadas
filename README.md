@@ -21,13 +21,20 @@ Me adiciona no Linkedin:
 <div align-items="left">
 <a href="https://www.linkedin.com/in/jacksondouglasdesouza" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=" Lindekin Jackson Douglas de souza" >
-</p>
+</p> 
 
+
+
+<img
+  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG35meAerX-o0GxpjyX4ElFzCN1AebWOvN3IZbFPElYXXkrnayHyyb_y8gexQKgm3C-jbuqljq6yyjhSPs7t7kWg6HKXKtA89mqfbEa_DT10tu2bzfsB4rwCfkRs_ouyCHXTkt6cGVFcOnJqziAVPEKoV8saA24dQW-pZvnoOWF-tDfirphRWhCHav/w640-h360/giphy.gif"
+  alt="Page portfólio do beija-flor - 03 Projeto do curso de desenvolvimento de software - Jackson Douglas de Souza."
+/>
 
 <img
   src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-vTwsvNMTFwT4Fl-hm9zRY2aJ3iLaYqop0uCUaDv1NLJgJ9YXBHX1imnSJXdX9MPZB4eNkFIATN3sWdeSDYEBHHXHXR_Cel6veEG2bw5coEUp7AHo66BZCc9Ih1qR8MvGZgKvUu1PJQyh4Cn1WHezdMXtgZBLfpP3IBs5ZOdxBEN_78KKdD4HzQLv/s500/WhatsApp%20Image%202022-10-17%20at%2022.32.45%20(1)%20(1).jpeg"
   alt="Page portfólio do beija-flor - 03 Projeto do curso de desenvolvimento de software - Jackson Douglas de Souza."
 />
+
 
 <img
   src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigscT45TK-jUWhZFtgzf3VyTte1YfKtozjseIBpUgxsNkM4NRIgUORHquPILoBmPx6zMljWxS_YooONvZATNboaA-HmEmnnyyDZehDBnz-lUBoxZFP7z1CtAGz44e5MpInY8CZ6hfYvpm4MkfkXBOhXEPpcefFwJhNlnpwWavzWnI9daxkC_4xoY5L/s517/WhatsApp%20Image%202022-10-17%20at%2022.32.45%20(2).jpeg"
