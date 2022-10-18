@@ -1,5 +1,0 @@
-## - Author: jacksondouglasdesouza
-## - Email: {jacksondouglasdesouza@gmail.com}
-## - Date: 18/10/2022
-## - Revision: version#
-## - License: Public Domain
