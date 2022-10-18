@@ -4,7 +4,7 @@ O Projeto que segue é referente a automatização em componentes de eletricidad
 Neste protótipo usando Arduino, programei códigos que ligam a lâmpada residencial ou algo similar através da aproximação da mão ao dispositivo receptor de dados, no caso um sensor. Fazendo com que ao aproximar a mão ao dispositivo inserido na parede, a lâmpada ligue automaticamente e ela será desligada também automaticamente após algumas horas de uso, caso o usuário não a desligue. Ela é programada para desligar assim que o usuário aproxime a mão ao dispositivo receptor de dados, sensor.
 Neste projeto desenvolvi conhecimentos de Arduino, prototipação Eletrônica, eletrônica digital e Analógica, comportamentos de automatizações não planejadas, comportamentos planejados de IOT, comunicação serial, registro de logs e registros de eventos.
 
-### - Link da gravação de tela no youtube: 
+### - Link da gravação de tela no youtube: https://bit.ly/3ENjWkI
 ### - Segue link do protótipo no GitHub: https://bit.ly/3D5XRN2 
 
 ### - Foi usado as seguintes tecnologias: 
